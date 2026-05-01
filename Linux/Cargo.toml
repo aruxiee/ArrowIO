@@ -1,0 +1,9 @@
+[package]
+name = "arrowio-linux"
+version = "0.1.0"
+edition = "2021"
+
+[profile.release]
+panic = "abort"
+opt-level = "z"
+strip = true

@@ -3,6 +3,8 @@
 
 ArrowIO is a cross-platform tool designed to audit EDR telemetry. By utilizing raw assembly syscalls and bypassing CRT/glibc, this script assists in confirming evasion via naked Rust binaries through user-mode API hooking and IAT-based static analysis.
 
+⚠️ **Please Note:** This project is strictly for **Educational and Authorized Penetration Testing**. I am not responsible for any of the shenanigans you guys pull.
+
 
 ## 🛡️Technical Overview
 

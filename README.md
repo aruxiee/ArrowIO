@@ -1,5 +1,5 @@
 
-# ArrowIO: Evasion Integrity Verifier
+# ➡️ ArrowIO: Evasion Integrity Verifier
 
 ArrowIO is a cross-platform tool designed to audit EDR telemetry. By utilizing raw assembly syscalls and bypassing CRT/glibc, this script assists in confirming evasion via naked Rust binaries through user-mode API hooking and IAT-based static analysis.
 

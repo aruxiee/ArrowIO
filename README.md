@@ -131,3 +131,7 @@ Verify the binary size.
 This script demonstrates **MITRE ATT&CK T1059 (Command and Scripting Interpreter)** and **T1106 (Native API)**.
 
 ---
+
+<p align="center">
+  With ❤️ by <b>Aradhya</b>
+</p>
